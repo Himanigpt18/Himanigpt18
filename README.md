@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himanigpt18
 - 👀 I’m interested in fullstack developer
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on you with in your new projects
+- 💞️ I’m looking to collaborate with you on your new projects
 - 📫 you can reach me through mail - heemani2001@gmail.com 
 
 <!---
